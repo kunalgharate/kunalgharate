@@ -1,4 +1,4 @@
-[![Hello 👋🏻](https://www.androiddeveloper.co.in/blog/wp-content/uploads/2018/08/Reasons-Kotlin-The-Best-Option-For-Android-Development.png)][1]
+[![Hello 👋🏻]https://www.androiddeveloper.co.in/blog/wp-content/uploads/2018/08/Reasons-Kotlin-The-Best-Option-For-Android-Development.png)[1]
 
 Hey 👋🏻,
 
