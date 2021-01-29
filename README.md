@@ -1,12 +1,9 @@
-[![Hello 👋🏻](https://pbs.twimg.com/profile_banners/214395203/1609525620/1500x500)][1]
+[![Hello 👋🏻](https://www.sysbunny.com/blog/wp-content/uploads/2018/02/hire-android-developer.png)][1]
 
 Hey 👋🏻,
 
-I am CEO and Co-Founder of marqant digital and Software Engineer from Austria
-🇦🇹. I am interested in, write about and develop (open source) software solutions
-for and with JavaScript, TypeScript, ReactJs and NodeJS.
+I am Android develoepr : Kotlin,Java .
 
-You can see what I am currently up to on [natterstefan.me][1].
 
 ## 📬 Get in touch
 
