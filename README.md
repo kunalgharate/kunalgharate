@@ -5,9 +5,7 @@ Hey 👋🏻,
 
 ## 📬 Get in touch
 
-- LinkedIn: [http://linkedin.com/in/natterstefan][2]
-- Twitter: [twitter.com/natterstefan][3]
+- [Twitter](http://linkedin.com/in//kunalgharate)
 - [Twitter](http://twitter.com/kunalgharate)
 
-[GitHub](http://github.com)
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](https://i.pinimg.com/originals/a6/4b/1c/a64b1cb75d84496a214f1699167f15fc.jpg)
