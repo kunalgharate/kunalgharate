@@ -1,5 +1,4 @@
-[![Hello 👋🏻]https://www.androiddeveloper.co.in/blog/wp-content/uploads/2018/08/Reasons-Kotlin-The-Best-Option-For-Android-Development.png)[1]
-
+[![Hello 👋🏻](https://miro.medium.com/max/1051/1*macojJuLPX5DwFOmt1odxA.png)][1]
 Hey 👋🏻,
 
 I am Android develoepr : Kotlin,Java .
