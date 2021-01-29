@@ -8,4 +8,4 @@ Hey 👋🏻,
 - [Linkedin](http://linkedin.com/in//kunalgharate)
 - [Twitter](http://twitter.com/kunalgharate)
 
-![GitHub Logo](https://cdn.imageupload.workers.dev/NKuXcNDh_android.png)
+![GitHub Logo](https://i.ibb.co/vjWxhbn/android.png)
