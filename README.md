@@ -8,7 +8,7 @@ Hey 👋🏻,
 - Web: [natterstefan.me][1]
 - LinkedIn: [http://linkedin.com/in/natterstefan][2]
 - Twitter: [twitter.com/natterstefan][3]
-- Blog: [blog.natterstefan.me][4]
+[Twitter](http://twitter.com/kunalgharate)
 
 [GitHub](http://github.com)
 ![GitHub Logo](/images/logo.png)
