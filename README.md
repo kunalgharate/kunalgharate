@@ -1,7 +1,6 @@
 [![Hello 👋🏻](https://download.softwsp.com/sites/13/2015/08/icon-android-studio.png)
 
 
-
 Hey 👋🏻,
 
 I am Android develoepr : Kotlin,Java .
