@@ -1,7 +1,7 @@
 
 Hey 👋🏻,
 
-# I am an Mobile development engineer (MDE)
+# I am a mobile development engineer (MDE)
 
 ## 📬 Get in touch
 
