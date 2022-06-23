@@ -10,4 +10,4 @@ Hey 👋🏻,
 
 [GitHubLogo]()
 
-![Screenshot]([https://cdn.geekdashboard.com/wp-content/uploads/2017/02/Love-Games-Apps.jpg])
+![Screenshot](https://cdn.geekdashboard.com/wp-content/uploads/2017/02/Love-Games-Apps.jpg)
